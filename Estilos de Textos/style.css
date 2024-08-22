@@ -17,3 +17,7 @@
 .formatacao3 {
     text-decoration: line-through;
 }
+
+.texto {
+    font: 900 20px "Times New Roman", "Aptos Narrow", sans-serif;
+}
